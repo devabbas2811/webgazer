@@ -1,5 +1,5 @@
 # webgazer
-<b>Live Version</b> <i>webtinder.netlify.app</i> <br>
+<b>Live Version</b> https://webtinder.netlify.app/ <br>
 A simple javscript demo using <b>WebGazer.js</b> inspired by <b>Webdev Simplified </b>tutorial <br>
 It lets you move image to either directions of  screen <br>( LEFT OR RIGHT ) by simply looking at white space.<br><br>
 <b>Note : </b><br>
